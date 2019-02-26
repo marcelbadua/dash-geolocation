@@ -1,0 +1,7 @@
+@media screen and (min-width: 992px) {
+  .list-countries {
+	  -webkit-column-count: 5; /* Chrome, Safari, Opera */
+  	-moz-column-count: 5; /* Firefox */
+  	column-count: 5;
+	}
+}
